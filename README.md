@@ -5,7 +5,7 @@
 ### Install
 
 ```sh
-npm install @pebois/eslint --save-dev
+npm install @pebois/eslint-config-typescript --save-dev
 ````
 
 In `.eslintrc.json` add :
@@ -13,7 +13,7 @@ In `.eslintrc.json` add :
 ```json
 {
   "extends": [
-    "@pebois/eslint"
+    "@pebois/eslint-config-typescript"
   ]
 }
 ```
