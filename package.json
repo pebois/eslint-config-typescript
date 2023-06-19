@@ -17,9 +17,11 @@
     "url": "https://github.com/pebois/eslint-config-typescript.git"
   },
   "dependencies": {
+    "@next/eslint-plugin-next": "12.3.1",
     "@typescript-eslint/eslint-plugin": "5.59.11",
     "@typescript-eslint/parser": "5.59.11",
     "eslint": "8.43.0",
+    "eslint-config-next": "12.3.1",
     "eslint-import-resolver-alias": "1.1.2",
     "eslint-plugin-deprecation": "1.4.1",
     "eslint-plugin-import": "2.27.5",
