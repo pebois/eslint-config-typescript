@@ -1,6 +1,6 @@
 {
   "name": "@pebois/eslint-config-typescript",
-  "version": "0.0.11",
+  "version": "1.0.0",
   "author": "pebois@gmail.com",
   "main": ".eslintrc.json",
   "license": "ISC",
