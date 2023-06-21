@@ -20,9 +20,6 @@
     "project": "./tsconfig.json"
   },
   "settings": {
-    "next": {
-      "rootDir": "./usr/app/"
-    },
     "react": {
       "version": "17.0"
     },
