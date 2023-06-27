@@ -331,6 +331,12 @@
         "maxEOF": 0
       }
     ],
+    "no-restricted-imports": [
+      "error",
+      {
+        "patterns": ["../*", "./*"]
+      }
+    ],
     "no-trailing-spaces": "error",
     "no-underscore-dangle": "off",
     "no-unused-expressions": "error",
